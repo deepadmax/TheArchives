@@ -1,0 +1,6 @@
+log
+
+# Any new deposits extracted will not be added.
+# The two in the Git are specifically for the million element sequence.
+x.deposit
+y.deposit
